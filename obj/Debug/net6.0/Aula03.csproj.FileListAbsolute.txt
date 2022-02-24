@@ -1,0 +1,15 @@
+C:\IGTI\Dio\AulasC\Aula03\bin\Debug\net6.0\Aula03.exe
+C:\IGTI\Dio\AulasC\Aula03\bin\Debug\net6.0\Aula03.deps.json
+C:\IGTI\Dio\AulasC\Aula03\bin\Debug\net6.0\Aula03.runtimeconfig.json
+C:\IGTI\Dio\AulasC\Aula03\bin\Debug\net6.0\Aula03.dll
+C:\IGTI\Dio\AulasC\Aula03\bin\Debug\net6.0\ref\Aula03.dll
+C:\IGTI\Dio\AulasC\Aula03\bin\Debug\net6.0\Aula03.pdb
+C:\IGTI\Dio\AulasC\Aula03\obj\Debug\net6.0\Aula03.csproj.AssemblyReference.cache
+C:\IGTI\Dio\AulasC\Aula03\obj\Debug\net6.0\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\IGTI\Dio\AulasC\Aula03\obj\Debug\net6.0\Aula03.AssemblyInfoInputs.cache
+C:\IGTI\Dio\AulasC\Aula03\obj\Debug\net6.0\Aula03.AssemblyInfo.cs
+C:\IGTI\Dio\AulasC\Aula03\obj\Debug\net6.0\Aula03.csproj.CoreCompileInputs.cache
+C:\IGTI\Dio\AulasC\Aula03\obj\Debug\net6.0\Aula03.dll
+C:\IGTI\Dio\AulasC\Aula03\obj\Debug\net6.0\ref\Aula03.dll
+C:\IGTI\Dio\AulasC\Aula03\obj\Debug\net6.0\Aula03.pdb
+C:\IGTI\Dio\AulasC\Aula03\obj\Debug\net6.0\Aula03.genruntimeconfig.cache
